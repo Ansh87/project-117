@@ -1,0 +1,24 @@
+#score {
+float: left;
+margin: 30px;
+}
+#timer {
+float: right;
+margin:30px;
+}
+body {
+background-color: aquamarine;
+color: black;
+font-size: 22px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#show_sketch {
+color:black;
+}
+
+#sketchToBeDrawn {
+font-weight: bolder;
+color: crimson;
+margin: 10px;
+letter-spacing: 1px;
+}
